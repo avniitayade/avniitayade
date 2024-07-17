@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avniitayade
+- 👋 Hi, I’m @poojatayade
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning gene expression analysis
 
